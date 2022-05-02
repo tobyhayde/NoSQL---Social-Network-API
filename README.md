@@ -46,4 +46,7 @@ npm start
 ```
 
 # Walkthrough 
-<iframe src="https://drive.google.com/file/d/1Uq6ZHiHUq7mMwLJHlE6S5IC37NAtISxk/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1Uq6ZHiHUq7mMwLJHlE6S5IC37NAtISxk/view
+
+# Licesne
+
