@@ -48,5 +48,11 @@ npm start
 # Walkthrough 
 https://drive.google.com/file/d/1Uq6ZHiHUq7mMwLJHlE6S5IC37NAtISxk/view
 
-# Licesne
+# License
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+Copyright 2021 tobyhayde
 
+This project is licensed under the MIT License. For the full license see this [link](https://opensource.org/licenses/MIT)
+
+# Contact
+Feel free to clone and use this code and/or get in contact with me at toby.hayde@icloud.com
