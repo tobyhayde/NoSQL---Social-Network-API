@@ -14,11 +14,11 @@ router.route('/')
 .post(addUser);
 
 router.route('/:id')
-.get(getUserbyID)
+.get(getUserByID)
 .put(updateUser)
 .delete(deleteUser);
 
-router.route('/:id/friends.friendId')
+router.route('/:id/friends/:friendID')
 .post(addFriend)
 .delete(deleteFriend)
 
